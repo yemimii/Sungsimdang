@@ -1,3 +1,4 @@
+# 네이버 뉴스 헤드라인 크롤링
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
