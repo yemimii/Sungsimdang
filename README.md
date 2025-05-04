@@ -1,2 +1,2 @@
-# oasis-market
-Logistics center site selection for Oasis Market using gravity model
+# Sungsimdang
+to evaluate Sungsimdang's corporate strategy through web crawling and data visualization
